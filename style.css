@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+.container {
+	background-image: url("./assets/pexels-ekaterina-bolovtsova-6077326.jpg");
+	background-position: 0rem 19rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	max-width: auto;
+	height: 100vh;
+	font-family: "Poppins", sans-serif;
+}
+
+.bg {
+	height: 50vh;
+	background-color: #2b2922;
+}
+
+.navbar-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2.5rem 4rem;
+
+	max-width: 120rem;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.nav-top {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.grow-list {
+	margin-left: 3rem;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.list .list-item {
+	display: inline-block;
+	padding: 0.5rem 2rem;
+	color: #c4c4c4;
+	font-size: 1.7rem;
+}
+
+.navbar-container div ul li:first-child {
+	font-weight: bold;
+	color: #fff;
+}
+
+.button-group {
+	margin-left: auto;
+}
+
+.nav-button {
+	border: 0.2rem solid #998935;
+	color: #998935;
+	background-color: transparent;
+	border-radius: 0.7rem;
+	padding: 1rem 2.5rem;
+}
+
+.banner-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: -2.5rem 0;
+	padding-left: 4rem;
+
+	max-width: 120rem;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.heading-text {
+	color: #fff;
+	font-size: 6.5rem;
+	margin: 3.5rem 0;
+	width: 45%;
+}
+
+.description {
+	color: #fff;
+	font-size: 1.5rem;
+	margin: 3.5rem 0;
+	width: 45%;
+}
