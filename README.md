@@ -2,7 +2,7 @@
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-3** [Live Link]()
+## **Project-3** [Live Link](https://law-landing-page-sayantan.netlify.app/)
 
 ### Website Image
 
